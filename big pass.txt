@@ -2,7 +2,9 @@
 
 (14 млн паролей, 250 МБ), зеркало
 SHA1 hash of the 7-Zip file: 00fc585efad08a4b6323f8e4196aae9207f8b09f
-SHA1 hash of the text file: 3fe6457fa8be6da10191bffa0f4cec43603a9f56                                                                                                   https://downloads.pwnedpasswords.com/passwords/pwned-passwords-update-1.txt.7z                                                                                                 
+SHA1 hash of the text file: 3fe6457fa8be6da10191bffa0f4cec43603a9f56                                                                                                   
+
+https://downloads.pwnedpasswords.com/passwords/pwned-passwords-update-1.txt.7z                                                                                                 
 
 
 306кк паролей для брута
