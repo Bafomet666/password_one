@@ -13,3 +13,7 @@ https://downloads.pwnedpasswords.com/passwords/pwned-passwords-1.0.txt.7z
 (306 млн паролей, 5,3 ГБ), зеркало
 SHA1 hash of the 7-Zip file: 90d57d16a2dfe00de6cc58d0fa7882229ace4a53
 SHA1 hash of the text file: d3f3ba6d05b9b451c2b59fd857d94ea421001b16
+
+Словари для брута wifi сетей.
+
+https://yadi.sk/d/O5FQG3B4zNmS5Q
